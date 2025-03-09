@@ -40,8 +40,8 @@ The Power BI dashboard provides insights into various aspects of customer churn,
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
-3. Run the Jupyter notebooks in the notebooks/ directory to explore data and train the model.
-4. Execute the SQL scripts in the sql/ directory to compute KPIs.
+3. Run the Jupyter notebooks in the notebooks to explore data and train the model.
+4. Execute the SQL scripts in the sql to compute KPIs.
 5. Open the Power BI dashboard (.pbix file) to interactively analyze churn insights.
 
 ## 📌 Results & Insights
